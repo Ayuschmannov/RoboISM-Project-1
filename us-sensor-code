@@ -23,7 +23,7 @@ delayMicroseconds(10);
 digitalWrite(trigPin, LOW);
 duration = pulseIn(echoPin, HIGH);  // Reading the echoPin, returns the sound wave travel time in microseconds
 distance= duration*0.034/2;         // Calculating the distance
-Serial.print("Distance is: ");         // Printing the distance on the Serial Monitor
+Serial.print("Distance is: ");      // Printing the distance on the Serial Monitor
 Serial.println(distance);
 delay(500);
 }
