@@ -8,3 +8,4 @@ The sensors used are Ultrasonic sensor (HC-SR04) and Gas Detection sensor (MQ-2)
 Apart from the sensors and board, other components used are Red and Green LEDs, 270 ohm Resistors, Jumper wires, breadboard.
 The file "us-sensor-code" has the code for HC-SR04 sensor.
 The file "gas-sensor-code" has the code for MQ-2 Gas Sensor.
+**The outputs on Serial Monitors have been shown in "Closed Issues".** Thank you :)
